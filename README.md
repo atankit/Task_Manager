@@ -33,12 +33,12 @@ The Task Manager is a Flutter application that helps users efficiently manage th
   +  State Management: Efficiently handles task data across different screens.
     
 ## Screenshots
- <img src="https://github.com/user-attachments/assets/e6c5ef6a-3d6a-416f-bc9c-edeff4aeb4c8" width="200" />
+ <img src=" " width="200" />
  
- <img src="https://github.com/user-attachments/assets/1b60a6eb-3bd2-4028-8e87-6fd0f65d71d0" width="200" />
+ <img src=" " width="200" />
  
-<img src="https://github.com/user-attachments/assets/5fe74aab-0336-42e6-8a5f-5edac66d7b29" width="200" />
+<img src=" " width="200" />
 
-<img src="https://github.com/user-attachments/assets/67ee0e2b-5f17-48af-a1ca-dcce3fe94ed9" width="200" />
-<img src = "https://github.com/user-attachments/assets/1c4617e5-88e8-4d03-9817-9bf9746ca6b5" width="200" />
-<img src = "https://github.com/user-attachments/assets/ad299620-855e-4357-a838-ade249a8dee5" width="200" />
+<img src="" width="200" />
+<img src = "  " width="200" />
+<img src = "  " width="200" />
