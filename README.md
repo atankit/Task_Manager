@@ -25,7 +25,7 @@ The Task Manager is a Flutter application that helps users efficiently manage th
 ## 3 - Edit Task Screen
    +  Enables users to update existing tasks.
    +  Updates are saved back to the database.
-   +  Completed Status - a toggle button enables the completed status and displays a check icon next to the task when it is marked as completed.
+   +  Completed Status - A toggle button enables the completed status and displays a check icon next to the task when it is marked as completed.
 
 ## Technology Stack
   +  Flutter: For building a responsive and user-friendly interface.
